@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.content {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 80%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+
+#profile-pic {
+    width: 200px;
+    height: 200px;
+}
+a {
+    color: blue;
+}
+a:hover {
+    color: red;
+}
